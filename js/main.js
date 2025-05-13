@@ -1,1 +1,1 @@
-console.log("pruebas 2025")
+console.log("pruebas 2026")
