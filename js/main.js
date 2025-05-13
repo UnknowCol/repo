@@ -1,4 +1,10 @@
-let suma = a + b
-let resultado = a + b
-return resultado
-print(suma(2, 3))
+function sumar(a,b) {
+    return a + b;
+}
+
+let numero1 = 10;
+let numero2 = 2;
+
+let resultado = sumar(numero1, numero2);
+
+console.log("El resultado de sumar " + numero1 + " y " + numero2 + " es: " + resultado);
