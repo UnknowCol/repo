@@ -2,7 +2,7 @@
 	"Saludo": {
 		"prefix": "sal",
 		"body": [
-			"print('hola, mi nombre es Lucas')"
+			"print('hola, mi nombre es ${2:name}')"
 		],
 		"description": "Saludando"
 	}
